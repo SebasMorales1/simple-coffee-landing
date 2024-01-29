@@ -9,7 +9,7 @@ function App() : JSX.Element {
     <main className="min-h-screen max-w-[1300px]">
       <div className='bg-hero w-full h-full bg-contain bg-no-repeat absolute top-0 z-0'/>
 
-      <div className="relative z-10 w-4/5 bg-[#1B1D1F] rounded-md mx-auto mt-12 py-14">
+      <div className="relative z-10 w-4/5 bg-[#1B1D1F] rounded-md mx-auto mt-12 py-14 mb-8">
         <h1 
           className="text-white text-center font-bold text-2xl mb-4 relative z-10"
         >
